@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.244.166.25
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670390518342
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670403943321
+  login: 1670403415111
+money: '0'
+last-account-name: ZorukoKun
+lastlocation:
+  world: c27876e5-d96a-4d24-ad20-cc82ba271fc6
+  world-name: world
+  x: 257.49318568271025
+  y: 54.0
+  z: -293.7444429496008
+  yaw: -306.6246643066406
+  pitch: 29.549985885620117
+logoutlocation:
+  world: c27876e5-d96a-4d24-ad20-cc82ba271fc6
+  world-name: world
+  x: 771.1258054864272
+  y: 51.0
+  z: 683.3000000119209
+  yaw: -202.68115234375
+  pitch: 34.649879455566406

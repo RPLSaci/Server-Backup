@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.244.167.161
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670401788672
+  login: 1670401556481
+money: '0'
+last-account-name: farel226
+lastlocation:
+  world: c27876e5-d96a-4d24-ad20-cc82ba271fc6
+  world-name: world
+  x: 187.01652325530648
+  y: 85.00133597911214
+  z: -60.28892194560725
+  yaw: -92.20206451416016
+  pitch: 14.513320922851562
+logoutlocation:
+  world: c27876e5-d96a-4d24-ad20-cc82ba271fc6
+  world-name: world
+  x: 2318.264791652784
+  y: 65.0
+  z: 929.1779385438728
+  yaw: -244.8734893798828
+  pitch: 4.062446594238281
