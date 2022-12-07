@@ -16,3 +16,5 @@ rm /var/lib/pterodactyl/backups/$date
 git add .
 git commit -m "minecraft"
 git push
+
+rm unzip/* -rf
