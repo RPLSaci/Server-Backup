@@ -1,0 +1,12 @@
+name: '§dGacha #1 Key'
+virtual: true
+item:
+  material: TRIPWIRE_HOOK
+  amount: 1
+  durability: 0
+  name: '&dGacha #1 Key'
+  lore:
+  - '&bUse this key to open &dGacha #1 &bcrate!'
+  enchanted: false
+  item-flags: []
+  unbreakable: false

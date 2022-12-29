@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.47.135.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671865561683
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671866196201
+  login: 1671860740672
+money: '0'
+last-account-name: momoki_
+logoutlocation:
+  world: c27876e5-d96a-4d24-ad20-cc82ba271fc6
+  world-name: world
+  x: 2248.295085997422
+  y: 69.0
+  z: 945.0477847626851
+  yaw: 355.10546875
+  pitch: 16.800294876098633
+lastlocation:
+  world: c27876e5-d96a-4d24-ad20-cc82ba271fc6
+  world-name: world
+  x: 2381.5
+  y: 64.0
+  z: 951.5
+  yaw: 177.29998779296875
+  pitch: 11.09999942779541

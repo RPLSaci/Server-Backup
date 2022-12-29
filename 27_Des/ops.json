@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "855db2a0-a008-3eff-91c3-198ca4a48070",
+    "name": "nearrell",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c58460f9-11cc-3e49-84b3-39276e50f94a",
+    "name": "radicallegendsp",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "39f7db88-1943-3fdb-8151-5093b64dcb4f",
+    "name": "Peminumair",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.2.74.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671708656218
+  login: 1671707333780
+money: '0'
+last-account-name: Galvardi22
+logoutlocation:
+  world: c27876e5-d96a-4d24-ad20-cc82ba271fc6
+  world-name: world
+  x: 172.69999998807907
+  y: 57.024424088213685
+  z: -49.69999998807907
+  yaw: -64.32180786132812
+  pitch: 7.585707187652588

@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2022-12-22 18:42:18 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

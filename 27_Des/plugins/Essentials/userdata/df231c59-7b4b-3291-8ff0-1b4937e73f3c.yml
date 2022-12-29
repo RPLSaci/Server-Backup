@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 125.164.22.141
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670503125439
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670503147463
+  login: 1670503066956
+money: '584.1350000000000068'
+last-account-name: QuandleDiego
+logoutlocation:
+  world: c27876e5-d96a-4d24-ad20-cc82ba271fc6
+  world-name: world
+  x: 13239.53686382141
+  y: 70.0
+  z: 23384.130856034455
+  yaw: 200.71405029296875
+  pitch: 21.750112533569336
+lastlocation:
+  world: c27876e5-d96a-4d24-ad20-cc82ba271fc6
+  world-name: world
+  x: 13761.32204352276
+  y: 16.0
+  z: 22475.69999998808
+  yaw: 359.8973388671875
+  pitch: -1.20012366771698
+homes:
+  home:
+    world: c27876e5-d96a-4d24-ad20-cc82ba271fc6
+    world-name: world
+    x: 13457.564930044193
+    y: 71.0
+    z: 22698.74717232913
+    yaw: 95.519775390625
+    pitch: 46.20043182373047

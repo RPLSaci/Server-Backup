@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.253.245.168
+afk: false
+socialspy: true
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671863660388
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671866061551
+  login: 1671859773106
+money: '1032265.0697000000020594'
+last-account-name: radicallegendsp
+lastlocation:
+  world: c27876e5-d96a-4d24-ad20-cc82ba271fc6
+  world-name: world
+  x: 2275.126669917521
+  y: 62.809486741892094
+  z: 968.0404296285116
+  yaw: -178.6498565673828
+  pitch: 20.699979782104492
+logoutlocation:
+  world: c27876e5-d96a-4d24-ad20-cc82ba271fc6
+  world-name: world
+  x: 2252.7944837233613
+  y: 71.0
+  z: 943.0106803813883
+  yaw: -358.2028503417969
+  pitch: 39.1500358581543
